@@ -1,6 +1,6 @@
 {
-  "name": "@whi/identicons",
-  "version": "0.1.2",
+  "name": "simple-identicons",
+  "version": "0.1.0",
   "description": "A javascript library for generating identicon images based on an input seed",
   "main": "src/index.js",
   "type": "module",
@@ -13,11 +13,11 @@
     "dist/identicons.bundled.js.map"
   ],
   "scripts": {},
-  "author": "Matthew Brisebois",
+  "author": "Blue PC",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mjbrisebois/identicons-js"
+    "url": "git+https://https://github.com/Blue-Pilkinton-Ching/identicons.git"
   },
   "dependencies": {
     "@babel/runtime": "^7.19.0",
