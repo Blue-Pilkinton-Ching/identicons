@@ -3,6 +3,7 @@
   "version": "0.1.2",
   "description": "A javascript library for generating identicon images based on an input seed",
   "main": "src/index.js",
+  "type": "module",
   "browser": "dist/identicons.bundled.js",
   "files": [
     "README.md",
